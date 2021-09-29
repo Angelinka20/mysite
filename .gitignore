@@ -1,0 +1,7 @@
+mysite/wsgi.py
+mysite/__init__.py
+blog/__init__.py
+blog/__pycache__
+mysite/__pycache__
+*__pycache__
+/myvenv
